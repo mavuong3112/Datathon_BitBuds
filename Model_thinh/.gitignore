@@ -1,0 +1,77 @@
+# Model_thinh — code only; regenerate cache/models via run_pipeline.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual env
+env/
+.venv/
+venv/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.DS_Store
+._*
+.claude/
+.cursor/
+
+# Logs & DuckDB temp
+*.log
+*.tmp
+.tmp/
+eda/.tmp/
+
+# Training cache & model artifacts (68GB+ under model/cache)
+**/cache/
+**/cache_*/
+catboost_info/
+wandb/
+mlruns/
+optuna/
+
+# ML binaries
+*.parquet
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.pt
+*.pth
+*.onnx
+*.feather
+*.h5
+*.hdf5
+*.joblib
+*.cbm
+*.bin
+*.model
+**/lgbm_ranker.txt
+**/xgboost_ranker.json
+
+# EDA / report outputs (regenerate scripts)
+eda/outputs/
+outputs.zip
+*.png
+*.pdf
+*.pptx
+
+# Competition data & submissions
+dim_listing/
+fact_listing_snapshot/
+fact_post_contact_interactions/
+fact_user_events/
+test/
+datathon-chung-ket/
+*.csv
+*.gz
+
+# Archives
+*.zip

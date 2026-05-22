@@ -1,9 +1,8 @@
 # =============================================================================
-# Datathon BitBuds — KHÔNG push dữ liệu / artifact nặng lên GitHub
-# Chỉ giữ: .py, .ipynb, .md, requirements, cấu hình nhẹ
+# Datathon BitBuds — chỉ push CODE tái lập được (không data / cache / model)
 # =============================================================================
 
-# --- Raw & derived data (parquet, csv, db, ...) ---
+# --- Raw & derived tabular / binary data ---
 *.parquet
 *.pq
 *.csv
@@ -30,8 +29,16 @@
 *.onnx
 *.bin
 *.model
+*.cbm
+*.gz
+*.gzip
 
-# --- Thư mục dữ liệu cuộc thi & phân tích nặng ---
+# --- Trained rankers & prediction dumps (chạy lại pipeline) ---
+**/lgbm_ranker.txt
+**/xgboost_ranker.json
+**/catboost_ranker.cbm
+
+# --- Thư mục dữ liệu cuộc thi ---
 train/
 ground_truth/
 dim_listing/
@@ -40,16 +47,26 @@ fact_post_contact_interactions/
 fact_user_events/
 test/
 Sub_Score/
+datathon-chung-ket/
+
+# --- Cache / artifact training (mọi model version) ---
+**/cache/
+**/cache_*/
+catboost_info/
+wandb/
+mlruns/
+optuna/
+.lightning/
 Thinh_Analyze/duckdb_temp_space/
 Thinh_Analyze/*.parquet
 Thinh_Analyze/*.duckdb
 
-# --- Kết quả chạy pipeline (regenerate được) ---
+# --- Kết quả pipeline & submission ---
 outputs/
 submission*.csv
 Submission*.csv
 
-# --- Slides / hình / file nặng khác ---
+# --- Slides / media / archives ---
 *.pptx
 *.ppt
 *.key
@@ -70,7 +87,7 @@ Submission*.csv
 *.tgz
 *.rar
 
-# --- Python virtual env & cache ---
+# --- Python env & bytecode ---
 env/
 .venv/
 venv/
@@ -88,28 +105,31 @@ build/
 .ruff_cache/
 .coverage
 htmlcov/
+*.so
 
-# --- Jupyter / notebook artifacts ---
+# --- Jupyter / temp ---
 .ipynb_checkpoints/
 *.nbconvert.ipynb
-
-# --- OS / IDE / temp ---
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
 .tmp/
 .mplconfig/
 *.log
 .cache/
 
-# --- Secrets (phòng nhỡ) ---
+# --- OS / IDE ---
+.DS_Store
+Thumbs.db
+._*
+.vscode/
+.idea/
+.claude/
+.cursor/
+*.swp
+*.swo
+*~
+
+# --- Secrets ---
 .env
 .env.*
 *.pem
-*.key
 credentials.json
 secrets.json
