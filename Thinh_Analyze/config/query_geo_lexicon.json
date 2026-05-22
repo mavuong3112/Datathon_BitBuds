@@ -1,0 +1,3158 @@
+{
+  "province_aliases": [
+    [
+      " thanh pho ho chi minh ",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " ba ria - vung tau ",
+      "Bà Rịa - Vũng Tàu"
+    ],
+    [
+      " thua thien - hue ",
+      "Thừa Thiên Huế"
+    ],
+    [
+      " tp ho chi minh ",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " thua thien hue ",
+      "Thừa Thiên Huế"
+    ],
+    [
+      " ho chi minh ",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " thai nguyen ",
+      "Thái Nguyên"
+    ],
+    [
+      " tuyen quang ",
+      "Tuyên Quang"
+    ],
+    [
+      " binh duong ",
+      "Bình Dương"
+    ],
+    [
+      " binh phuoc ",
+      "Bình Phước"
+    ],
+    [
+      " tien giang ",
+      "Tiền Giang"
+    ],
+    [
+      " binh thuan ",
+      "Bình Thuận"
+    ],
+    [
+      " kien giang ",
+      "Kiên Giang"
+    ],
+    [
+      " ninh thuan ",
+      "Ninh Thuận"
+    ],
+    [
+      " quang ngai ",
+      "Quảng Ngãi"
+    ],
+    [
+      " quang ninh ",
+      "Quảng Ninh"
+    ],
+    [
+      " quang binh ",
+      "Quảng Bình"
+    ],
+    [
+      " tp ha noi ",
+      "Hà Nội"
+    ],
+    [
+      " khanh hoa ",
+      "Khánh Hòa"
+    ],
+    [
+      " nha trang ",
+      "Khánh Hòa"
+    ],
+    [
+      " quang nam ",
+      "Quảng Nam"
+    ],
+    [
+      " hai phong ",
+      "Hải Phòng"
+    ],
+    [
+      " vinh long ",
+      "Vĩnh Long"
+    ],
+    [
+      " binh dinh ",
+      "Bình Định"
+    ],
+    [
+      " soc trang ",
+      "Sóc Trăng"
+    ],
+    [
+      " hau giang ",
+      "Hậu Giang"
+    ],
+    [
+      " dong thap ",
+      "Đồng Tháp"
+    ],
+    [
+      " thanh hoa ",
+      "Thanh Hóa"
+    ],
+    [
+      " bac giang ",
+      "Bắc Giang"
+    ],
+    [
+      " vinh phuc ",
+      "Vĩnh Phúc"
+    ],
+    [
+      " thai binh ",
+      "Thái Bình"
+    ],
+    [
+      " hai duong ",
+      "Hải Dương"
+    ],
+    [
+      " ninh binh ",
+      "Ninh Bình"
+    ],
+    [
+      " quang tri ",
+      "Quảng Trị"
+    ],
+    [
+      " dien bien ",
+      "Điện Biên"
+    ],
+    [
+      " dong nai ",
+      "Đồng Nai"
+    ],
+    [
+      " lam dong ",
+      "Lâm Đồng"
+    ],
+    [
+      " tay ninh ",
+      "Tây Ninh"
+    ],
+    [
+      " an giang ",
+      "An Giang"
+    ],
+    [
+      " hung yen ",
+      "Hưng Yên"
+    ],
+    [
+      " dak nong ",
+      "Đắk Nông"
+    ],
+    [
+      " hoa binh ",
+      "Hòa Bình"
+    ],
+    [
+      " bac ninh ",
+      "Bắc Ninh"
+    ],
+    [
+      " tra vinh ",
+      "Trà Vinh"
+    ],
+    [
+      " nam dinh ",
+      "Nam Định"
+    ],
+    [
+      " bac lieu ",
+      "Bạc Liêu"
+    ],
+    [
+      " lang son ",
+      "Lạng Sơn"
+    ],
+    [
+      " ha giang ",
+      "Hà Giang"
+    ],
+    [
+      " lai chau ",
+      "Lai Châu"
+    ],
+    [
+      " cao bang ",
+      "Cao Bằng"
+    ],
+    [
+      " sai gon ",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " da nang ",
+      "Đà Nẵng"
+    ],
+    [
+      " can tho ",
+      "Cần Thơ"
+    ],
+    [
+      " long an ",
+      "Long An"
+    ],
+    [
+      " dak lak ",
+      "Đắk Lắk"
+    ],
+    [
+      " ben tre ",
+      "Bến Tre"
+    ],
+    [
+      " gia lai ",
+      "Gia Lai"
+    ],
+    [
+      " phu yen ",
+      "Phú Yên"
+    ],
+    [
+      " nghe an ",
+      "Nghệ An"
+    ],
+    [
+      " phu tho ",
+      "Phú Thọ"
+    ],
+    [
+      " kon tum ",
+      "Kon Tum"
+    ],
+    [
+      " ha tinh ",
+      "Hà Tĩnh"
+    ],
+    [
+      " lao cai ",
+      "Lào Cai"
+    ],
+    [
+      " yen bai ",
+      "Yên Bái"
+    ],
+    [
+      " bac kan ",
+      "Bắc Kạn"
+    ],
+    [
+      " tp hcm ",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " saigon ",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " ha noi ",
+      "Hà Nội"
+    ],
+    [
+      " da lat ",
+      "Lâm Đồng"
+    ],
+    [
+      " ca mau ",
+      "Cà Mau"
+    ],
+    [
+      " ha nam ",
+      "Hà Nam"
+    ],
+    [
+      " son la ",
+      "Sơn La"
+    ],
+    [
+      " dalat ",
+      "Lâm Đồng"
+    ],
+    [
+      " hcm ",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " hn ",
+      "Hà Nội"
+    ],
+    [
+      " dn ",
+      "Đà Nẵng"
+    ],
+    [
+      " bd ",
+      "Bình Dương"
+    ],
+    [
+      " hp ",
+      "Hải Phòng"
+    ]
+  ],
+  "district_aliases": [
+    [
+      " thanh pho phan rang-thap cham ",
+      "Thành phố Phan Rang-Tháp Chàm|Ninh Thuận",
+      "Ninh Thuận"
+    ],
+    [
+      " thanh pho dien bien phu ",
+      "Thành phố Điện Biên Phủ|Điện Biên",
+      "Điện Biên"
+    ],
+    [
+      " thanh pho buon ma thuot ",
+      "Thành phố Buôn Ma Thuột|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " thanh pho thu dau mot ",
+      "Thành phố Thủ Dầu Một|Bình Dương",
+      "Bình Dương"
+    ],
+    [
+      " thanh pho thai nguyen ",
+      "Thành phố Thái Nguyên|Thái Nguyên",
+      "Thái Nguyên"
+    ],
+    [
+      " thanh pho tuyen quang ",
+      "Thành phố Tuyên Quang|Tuyên Quang",
+      "Tuyên Quang"
+    ],
+    [
+      " huyen duong minh chau ",
+      "Huyện Dương Minh Châu|Tây Ninh",
+      "Tây Ninh"
+    ],
+    [
+      " thanh pho long xuyen ",
+      "Thành phố Long Xuyên|An Giang",
+      "An Giang"
+    ],
+    [
+      " thanh pho phan thiet ",
+      "Thành phố Phan Thiết|Bình Thuận",
+      "Bình Thuận"
+    ],
+    [
+      " thanh pho quang ngai ",
+      "Thành phố Quảng Ngãi|Quảng Ngãi",
+      "Quảng Ngãi"
+    ],
+    [
+      " thanh pho long khanh ",
+      "Thành phố Long Khánh|Đồng Nai",
+      "Đồng Nai"
+    ],
+    [
+      " thanh pho dong xoai ",
+      "Thành phố Đồng Xoài|Bình Phước",
+      "Bình Phước"
+    ],
+    [
+      " huyen ham thuan bac ",
+      "Huyện Hàm Thuận Bắc|Bình Thuận",
+      "Bình Thuận"
+    ],
+    [
+      " huyen ham thuan nam ",
+      "Huyện Hàm Thuận Nam|Bình Thuận",
+      "Bình Thuận"
+    ],
+    [
+      " thanh pho bac giang ",
+      "Thành phố Bắc Giang|Bắc Giang",
+      "Bắc Giang"
+    ],
+    [
+      " huyen tran van thoi ",
+      "Huyện Trần Văn Thời|Cà Mau",
+      "Cà Mau"
+    ],
+    [
+      " thanh pho hai duong ",
+      "Thành phố Hải Dương|Hải Dương",
+      "Hải Dương"
+    ],
+    [
+      " \bthanh pho chi linh ",
+      "\bThành phố Chí Linh|Hải Dương",
+      "Hải Dương"
+    ],
+    [
+      " thanh pho nha trang ",
+      "Thành phố Nha Trang|Khánh Hòa",
+      "Khánh Hòa"
+    ],
+    [
+      " huyen u minh thuong ",
+      "Huyện U Minh Thượng|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " thanh pho ninh binh ",
+      "Thành phố Ninh Bình|Ninh Bình",
+      "Ninh Bình"
+    ],
+    [
+      " thanh pho soc trang ",
+      "Thành phố Sóc Trăng|Sóc Trăng",
+      "Sóc Trăng"
+    ],
+    [
+      " thanh pho thanh hoa ",
+      "Thành phố Thanh Hóa|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " thanh pho thai binh ",
+      "Thành phố Thái Bình|Thái Bình",
+      "Thái Bình"
+    ],
+    [
+      " thanh pho song cong ",
+      "Thành phố Sông Công|Thái Nguyên",
+      "Thái Nguyên"
+    ],
+    [
+      " thanh pho vinh long ",
+      "Thành phố Vĩnh Long|Vĩnh Long",
+      "Vĩnh Long"
+    ],
+    [
+      " thanh pho gia nghia ",
+      "Thành phố Gia Nghĩa|Đắk Nông",
+      "Đắk Nông"
+    ],
+    [
+      " thanh pho chau doc ",
+      "Thành phố Châu Đốc|An Giang",
+      "An Giang"
+    ],
+    [
+      " thanh pho vung tau ",
+      "Thành phố Vũng Tàu|Bà Rịa - Vũng Tàu",
+      "Bà Rịa - Vũng Tàu"
+    ],
+    [
+      " thanh pho thuan an ",
+      "Thành phố Thuận An|Bình Dương",
+      "Bình Dương"
+    ],
+    [
+      " huyen bac tan uyen ",
+      "Huyện Bắc Tân Uyên|Bình Dương",
+      "Bình Dương"
+    ],
+    [
+      " thanh pho qui nhon ",
+      "Thành phố Qui Nhơn|Bình Định",
+      "Bình Định"
+    ],
+    [
+      " thanh pho bac lieu ",
+      "Thành phố Bạc Liêu|Bạc Liêu",
+      "Bạc Liêu"
+    ],
+    [
+      " thanh pho bac ninh ",
+      "Thành phố Bắc Ninh|Bắc Ninh",
+      "Bắc Ninh"
+    ],
+    [
+      " thanh pho ha giang ",
+      "Thành phố Hà Giang|Hà Giang",
+      "Hà Giang"
+    ],
+    [
+      " thanh pho hoa binh ",
+      "Thành phố Hòa Bình|Hòa Bình",
+      "Hòa Bình"
+    ],
+    [
+      " thanh pho hung yen ",
+      "Thành phố Hưng Yên|Hưng Yên",
+      "Hưng Yên"
+    ],
+    [
+      " huyen chau thanh a ",
+      "Huyện Châu Thành A|Hậu Giang",
+      "Hậu Giang"
+    ],
+    [
+      " thanh pho vi thanh ",
+      "Thành phố Vị Thanh|Hậu Giang",
+      "Hậu Giang"
+    ],
+    [
+      " thanh pho cam ranh ",
+      "Thành phố Cam Ranh|Khánh Hòa",
+      "Khánh Hòa"
+    ],
+    [
+      " thanh pho rach gia ",
+      "Thành phố Rạch Giá|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " thanh pho phu quoc ",
+      "Thành phố Phú Quốc|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " thanh pho lang son ",
+      "Thành phố Lạng Sơn|Lạng Sơn",
+      "Lạng Sơn"
+    ],
+    [
+      " thanh pho nam dinh ",
+      "Thành phố Nam Định|Nam Định",
+      "Nam Định"
+    ],
+    [
+      " thanh pho tam diep ",
+      "Thành phố Tam Điệp|Ninh Bình",
+      "Ninh Bình"
+    ],
+    [
+      " thanh pho viet tri ",
+      "Thành phố Việt Trì|Phú Thọ",
+      "Phú Thọ"
+    ],
+    [
+      " thanh pho dong hoi ",
+      "Thành Phố Đồng Hới|Quảng Bình",
+      "Quảng Bình"
+    ],
+    [
+      " thanh pho mong cai ",
+      "Thành phố Móng Cái|Quảng Ninh",
+      "Quảng Ninh"
+    ],
+    [
+      " huyen go cong dong ",
+      "Huyện Gò Công Đông|Tiền Giang",
+      "Tiền Giang"
+    ],
+    [
+      " huyen tan phu dong ",
+      "Huyện Tân Phú Đông|Tiền Giang",
+      "Tiền Giang"
+    ],
+    [
+      " thanh pho tra vinh ",
+      "Thành phố Trà Vinh|Trà Vinh",
+      "Trà Vinh"
+    ],
+    [
+      " thanh pho tay ninh ",
+      "Thành phố Tây Ninh|Tây Ninh",
+      "Tây Ninh"
+    ],
+    [
+      " thanh pho phuc yen ",
+      "Thành phố Phúc Yên|Vĩnh Phúc",
+      "Vĩnh Phúc"
+    ],
+    [
+      " thanh pho vinh yen ",
+      "Thành phố Vĩnh Yên|Vĩnh Phúc",
+      "Vĩnh Phúc"
+    ],
+    [
+      " thanh pho bien hoa ",
+      "Thành phố Biên Hòa|Đồng Nai",
+      "Đồng Nai"
+    ],
+    [
+      " thanh pho cao lanh ",
+      "Thành phố Cao Lãnh|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " thanh pho hong ngu ",
+      "Thành phố Hồng Ngự|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " thi xa phuoc long ",
+      "Thị xã Phước Long|Bình Phước",
+      "Bình Phước"
+    ],
+    [
+      " thanh pho bac kan ",
+      "Thành Phố Bắc Kạn|Bắc Kạn",
+      "Bắc Kạn"
+    ],
+    [
+      " huyen thuan thanh ",
+      "Huyện Thuận Thành|Bắc Ninh",
+      "Bắc Ninh"
+    ],
+    [
+      " thanh pho ben tre ",
+      "Thành phố Bến Tre|Bến Tre",
+      "Bến Tre"
+    ],
+    [
+      " quan hai ba trung ",
+      "Quận Hai Bà Trưng|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " thanh pho ha tinh ",
+      "Thành phố Hà Tĩnh|Hà Tĩnh",
+      "Hà Tĩnh"
+    ],
+    [
+      " huyen thuy nguyen ",
+      "Huyện Thuỷ Nguyên|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " thanh pho nga bay ",
+      "Thành phố Ngã Bảy|Hậu Giang",
+      "Hậu Giang"
+    ],
+    [
+      " thanh pho ha tien ",
+      "Thành phố Hà Tiên|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " huyen giong rieng ",
+      "Huyện Giồng Riềng|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " huyen giang thanh ",
+      "Huyện Giang Thành|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " thanh pho kon tum ",
+      "Thành phố Kon Tum|Kon Tum",
+      "Kon Tum"
+    ],
+    [
+      " thi xa kien tuong ",
+      "Thị xã Kiến Tường|Long An",
+      "Long An"
+    ],
+    [
+      " thanh pho lao cai ",
+      "Thành phố Lào Cai|Lào Cai",
+      "Lào Cai"
+    ],
+    [
+      " thanh pho bao loc ",
+      "Thành phố Bảo Lộc|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen xuan truong ",
+      "Huyện Xuân Trường|Nam Định",
+      "Nam Định"
+    ],
+    [
+      " huyen hung nguyen ",
+      "Huyện Hưng Nguyên|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " thanh pho tuy hoa ",
+      "Thành phố Tuy Hòa|Phú Yên",
+      "Phú Yên"
+    ],
+    [
+      " huyen quang trach ",
+      "Huyện Quảng Trạch|Quảng Bình",
+      "Quảng Bình"
+    ],
+    [
+      " thanh pho ha long ",
+      "Thành phố Hạ Long|Quảng Ninh",
+      "Quảng Ninh"
+    ],
+    [
+      " thi xa dong trieu ",
+      "Thị xã Đông Triều|Quảng Ninh",
+      "Quảng Ninh"
+    ],
+    [
+      " thanh pho cam pha ",
+      "Thành phố Cẩm Phả|Quảng Ninh",
+      "Quảng Ninh"
+    ],
+    [
+      " thanh pho uong bi ",
+      "Thành phố Uông Bí|Quảng Ninh",
+      "Quảng Ninh"
+    ],
+    [
+      " thanh pho dong ha ",
+      "Thành phố Đông Hà|Quảng Trị",
+      "Quảng Trị"
+    ],
+    [
+      " huyen trieu phong ",
+      "Huyện Triệu Phong|Quảng Trị",
+      "Quảng Trị"
+    ],
+    [
+      " huyen cu lao dung ",
+      "Huyện Cù Lao Dung|Sóc Trăng",
+      "Sóc Trăng"
+    ],
+    [
+      " huyen thach thanh ",
+      "Huyện Thạch Thành|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " thanh pho sam son ",
+      "Thành phố Sầm Sơn|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen quang xuong ",
+      "Huyện Quảng Xương|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " thi xa huong thuy ",
+      "Thị xã Hương Thủy|Thừa Thiên Huế",
+      "Thừa Thiên Huế"
+    ],
+    [
+      " huyen go cong tay ",
+      "Huyện Gò Công Tây|Tiền Giang",
+      "Tiền Giang"
+    ],
+    [
+      " thanh pho thu duc ",
+      "Thành phố Thủ Đức|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " thanh pho yen bai ",
+      "Thành phố Yên Bái|Yên Bái",
+      "Yên Bái"
+    ],
+    [
+      " quan ngu hanh son ",
+      "Quận Ngũ Hành Sơn|Đà Nẵng",
+      "Đà Nẵng"
+    ],
+    [
+      " huyen chau thanh ",
+      "Huyện Châu Thành|An Giang",
+      "An Giang"
+    ],
+    [
+      " thanh pho ba ria ",
+      "Thành phố Bà Rịa|Bà Rịa - Vũng Tàu",
+      "Bà Rịa - Vũng Tàu"
+    ],
+    [
+      " huyen chon thanh ",
+      "Huyện Chơn Thành|Bình Phước",
+      "Bình Phước"
+    ],
+    [
+      " thi xa binh long ",
+      "Thị xã Bình Long|Bình Phước",
+      "Bình Phước"
+    ],
+    [
+      " huyen bu gia map ",
+      "Huyện Bù Gia Mập|Bình Phước",
+      "Bình Phước"
+    ],
+    [
+      " thi xa hoai nhon ",
+      "Thị xã Hoài Nhơn|Bình Định",
+      "Bình Định"
+    ],
+    [
+      " huyen phuoc long ",
+      "Huyện Phước Long|Bạc Liêu",
+      "Bạc Liêu"
+    ],
+    [
+      " huyen lang giang ",
+      "Huyện Lạng Giang|Bắc Giang",
+      "Bắc Giang"
+    ],
+    [
+      " huyen chau thanh ",
+      "Huyện Châu Thành|Bến Tre",
+      "Bến Tre"
+    ],
+    [
+      " huyen giong trom ",
+      "Huyện Giồng Trôm|Bến Tre",
+      "Bến Tre"
+    ],
+    [
+      " huyen mo cay nam ",
+      "Huyện Mỏ Cày Nam|Bến Tre",
+      "Bến Tre"
+    ],
+    [
+      " huyen mo cay bac ",
+      "Huyện Mỏ Cày Bắc|Bến Tre",
+      "Bến Tre"
+    ],
+    [
+      " thanh pho ca mau ",
+      "Thành phố Cà Mau|Cà Mau",
+      "Cà Mau"
+    ],
+    [
+      " huyen phong dien ",
+      "Huyện Phong Điền|Cần Thơ",
+      "Cần Thơ"
+    ],
+    [
+      " huyen vinh thanh ",
+      "Huyện Vĩnh Thạnh|Cần Thơ",
+      "Cần Thơ"
+    ],
+    [
+      " thanh pho pleiku ",
+      "Thành phố Pleiku|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " thanh pho phu ly ",
+      "Thành phố Phủ Lý|Hà Nam",
+      "Hà Nam"
+    ],
+    [
+      " huyen thanh liem ",
+      "Huyện Thanh Liêm|Hà Nam",
+      "Hà Nam"
+    ],
+    [
+      " quan nam tu liem ",
+      "Quận Nam Từ Liêm|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " quan bac tu liem ",
+      "Quận Bắc Từ Liêm|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen thuong tin ",
+      "Huyện Thường Tín|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen thach that ",
+      "Huyện Thạch Thất|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen dan phuong ",
+      "Huyện Đan Phượng|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " thi xa hong linh ",
+      "Thị xã Hồng Lĩnh|Hà Tĩnh",
+      "Hà Tĩnh"
+    ],
+    [
+      " huyen khoai chau ",
+      "Huyện Khoái Châu|Hưng Yên",
+      "Hưng Yên"
+    ],
+    [
+      " huyen binh giang ",
+      "Huyện Bình Giang|Hải Dương",
+      "Hải Dương"
+    ],
+    [
+      " huyen thanh mien ",
+      "Huyện Thanh Miện|Hải Dương",
+      "Hải Dương"
+    ],
+    [
+      " huyen chau thanh ",
+      "Huyện Châu Thành|Hậu Giang",
+      "Hậu Giang"
+    ],
+    [
+      " huyen phung hiep ",
+      "Huyện Phụng Hiệp|Hậu Giang",
+      "Hậu Giang"
+    ],
+    [
+      " huyen dien khanh ",
+      "Huyện Diên Khánh|Khánh Hòa",
+      "Khánh Hòa"
+    ],
+    [
+      " huyen khanh vinh ",
+      "Huyện Khánh Vĩnh|Khánh Hòa",
+      "Khánh Hòa"
+    ],
+    [
+      " huyen chau thanh ",
+      "Huyện Châu Thành|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " huyen kien luong ",
+      "Huyện Kiên Lương|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " huyen vinh thuan ",
+      "Huyện Vĩnh Thuận|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " thanh pho tan an ",
+      "Thành phố Tân An|Long An",
+      "Long An"
+    ],
+    [
+      " huyen chau thanh ",
+      "Huyện Châu Thành|Long An",
+      "Long An"
+    ],
+    [
+      " thanh pho da lat ",
+      "Thành phố Đà Lạt|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen nghia hung ",
+      "Huyện Nghĩa Hưng|Nam Định",
+      "Nam Định"
+    ],
+    [
+      " thi xa hoang mai ",
+      "Thị xã Hoàng Mai|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " huyen ninh phuoc ",
+      "Huyện Ninh Phước|Ninh Thuận",
+      "Ninh Thuận"
+    ],
+    [
+      " huyen thanh thuy ",
+      "Huyện Thanh Thuỷ|Phú Thọ",
+      "Phú Thọ"
+    ],
+    [
+      " huyen quang ninh ",
+      "Huyện Quảng Ninh|Quảng Bình",
+      "Quảng Bình"
+    ],
+    [
+      " thanh pho hoi an ",
+      "Thành phố Hội An|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen thang binh ",
+      "Huyện Thăng Bình|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " thanh pho tam ky ",
+      "Thành phố Tam Kỳ|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen dong giang ",
+      "Huyện Đông Giang|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen tien phuoc ",
+      "Huyện Tiên Phước|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen bac tra my ",
+      "Huyện Bắc Trà My|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen nghia hanh ",
+      "Huyện Nghĩa Hành|Quảng Ngãi",
+      "Quảng Ngãi"
+    ],
+    [
+      " thi xa quang yen ",
+      "Thị xã Quảng Yên|Quảng Ninh",
+      "Quảng Ninh"
+    ],
+    [
+      " thi xa quang tri ",
+      "Thị xã Quảng Trị|Quảng Trị",
+      "Quảng Trị"
+    ],
+    [
+      " huyen chau thanh ",
+      "Huyện Châu Thành|Sóc Trăng",
+      "Sóc Trăng"
+    ],
+    [
+      " thi xa vinh chau ",
+      "Thị xã Vĩnh Châu|Sóc Trăng",
+      "Sóc Trăng"
+    ],
+    [
+      " thanh pho son la ",
+      "Thành phố Sơn La|Sơn La",
+      "Sơn La"
+    ],
+    [
+      " huyen kien xuong ",
+      "Huyện Kiến Xương|Thái Bình",
+      "Thái Bình"
+    ],
+    [
+      " thi xa huong tra ",
+      "Thị xã Hương Trà|Thừa Thiên Huế",
+      "Thừa Thiên Huế"
+    ],
+    [
+      " huyen quang dien ",
+      "Huyện Quảng Điền|Thừa Thiên Huế",
+      "Thừa Thiên Huế"
+    ],
+    [
+      " huyen phong dien ",
+      "Huyện Phong Điền|Thừa Thiên Huế",
+      "Thừa Thiên Huế"
+    ],
+    [
+      " thanh pho my tho ",
+      "Thành phố Mỹ Tho|Tiền Giang",
+      "Tiền Giang"
+    ],
+    [
+      " huyen chau thanh ",
+      "Huyện Châu Thành|Tiền Giang",
+      "Tiền Giang"
+    ],
+    [
+      " huyen binh chanh ",
+      "Huyện Bình Chánh|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " huyen chau thanh ",
+      "Huyện Châu Thành|Trà Vinh",
+      "Trà Vinh"
+    ],
+    [
+      " thi xa duyen hai ",
+      "Thị xã Duyên Hải|Trà Vinh",
+      "Trà Vinh"
+    ],
+    [
+      " huyen trang bang ",
+      "Huyện Trảng Bàng|Tây Ninh",
+      "Tây Ninh"
+    ],
+    [
+      " huyen chau thanh ",
+      "Huyện Châu Thành|Tây Ninh",
+      "Tây Ninh"
+    ],
+    [
+      " thi xa binh minh ",
+      "Thị xã Bình Minh|Vĩnh Long",
+      "Vĩnh Long"
+    ],
+    [
+      " huyen binh xuyen ",
+      "Huyện Bình Xuyên|Vĩnh Phúc",
+      "Vĩnh Phúc"
+    ],
+    [
+      " huyen vinh tuong ",
+      "Huyện Vĩnh Tường|Vĩnh Phúc",
+      "Vĩnh Phúc"
+    ],
+    [
+      " huyen krong nang ",
+      "Huyện Krông Năng|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen krong a na ",
+      "Huyện Krông A Na|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen krong bong ",
+      "Huyện Krông Bông|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen nhon trach ",
+      "Huyện Nhơn Trạch|Đồng Nai",
+      "Đồng Nai"
+    ],
+    [
+      " huyen long thanh ",
+      "Huyện Long Thành|Đồng Nai",
+      "Đồng Nai"
+    ],
+    [
+      " huyen thong nhat ",
+      "Huyện Thống Nhất|Đồng Nai",
+      "Đồng Nai"
+    ],
+    [
+      " thanh pho sa dec ",
+      "Thành phố Sa Đéc|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " huyen chau thanh ",
+      "Huyện Châu Thành|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " huyen thanh binh ",
+      "Huyện Thanh Bình|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " huyen thoai son ",
+      "Huyện Thoại Sơn|An Giang",
+      "An Giang"
+    ],
+    [
+      " huyen tinh bien ",
+      "Huyện Tịnh Biên|An Giang",
+      "An Giang"
+    ],
+    [
+      " thi xa tan chau ",
+      "Thị xã Tân Châu|An Giang",
+      "An Giang"
+    ],
+    [
+      " huyen long dien ",
+      "Huyện Long Điền|Bà Rịa - Vũng Tàu",
+      "Bà Rịa - Vũng Tàu"
+    ],
+    [
+      " huyen xuyen moc ",
+      "Huyện Xuyên Mộc|Bà Rịa - Vũng Tàu",
+      "Bà Rịa - Vũng Tàu"
+    ],
+    [
+      " thanh pho di an ",
+      "Thành phố Dĩ An|Bình Dương",
+      "Bình Dương"
+    ],
+    [
+      " thi xa tan uyen ",
+      "Thị xã Tân Uyên|Bình Dương",
+      "Bình Dương"
+    ],
+    [
+      " huyen dau tieng ",
+      "Huyện Dầu Tiếng|Bình Dương",
+      "Bình Dương"
+    ],
+    [
+      " huyen phu rieng ",
+      "Huyện Phú Riềng|Bình Phước",
+      "Bình Phước"
+    ],
+    [
+      " huyen tuy phong ",
+      "Huyện Tuy Phong|Bình Thuận",
+      "Bình Thuận"
+    ],
+    [
+      " huyen tanh linh ",
+      "Huyện Tánh Linh|Bình Thuận",
+      "Bình Thuận"
+    ],
+    [
+      " huyen tuy phuoc ",
+      "Huyện Tuy Phước|Bình Định",
+      "Bình Định"
+    ],
+    [
+      " huyen yen phong ",
+      "Huyện Yên Phong|Bắc Ninh",
+      "Bắc Ninh"
+    ],
+    [
+      " huyen luong tai ",
+      "Huyện Lương Tài|Bắc Ninh",
+      "Bắc Ninh"
+    ],
+    [
+      " huyen thanh phu ",
+      "Huyện Thạnh Phú|Bến Tre",
+      "Bến Tre"
+    ],
+    [
+      " huyen thoi binh ",
+      "Huyện Thới Bình|Cà Mau",
+      "Cà Mau"
+    ],
+    [
+      " huyen ngoc hien ",
+      "Huyện Ngọc Hiển|Cà Mau",
+      "Cà Mau"
+    ],
+    [
+      " huyen chu prong ",
+      "Huyện Chư Prông|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " huyen mang yang ",
+      "Huyện Mang Yang|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " huyen phu thien ",
+      "Huyện Phú Thiện|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " huyen kong chro ",
+      "Huyện Kông Chro|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " thi xa duy tien ",
+      "Thị xã Duy Tiên|Hà Nam",
+      "Hà Nam"
+    ],
+    [
+      " quan thanh xuan ",
+      "Quận Thanh Xuân|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen thanh tri ",
+      "Huyện Thanh Trì|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen chuong my ",
+      "Huyện Chương Mỹ|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen thanh oai ",
+      "Huyện Thanh Oai|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen phu xuyen ",
+      "Huyện Phú Xuyên|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen nghi xuan ",
+      "Huyện Nghi Xuân|Hà Tĩnh",
+      "Hà Tĩnh"
+    ],
+    [
+      " huyen huong khe ",
+      "Huyện Hương Khê|Hà Tĩnh",
+      "Hà Tĩnh"
+    ],
+    [
+      " huyen huong son ",
+      "Huyện Hương Sơn|Hà Tĩnh",
+      "Hà Tĩnh"
+    ],
+    [
+      " huyen cam xuyen ",
+      "Huyện Cẩm Xuyên|Hà Tĩnh",
+      "Hà Tĩnh"
+    ],
+    [
+      " huyen luong son ",
+      "Huyện Lương Sơn|Hòa Bình",
+      "Hòa Bình"
+    ],
+    [
+      " huyen cao phong ",
+      "Huyện Cao Phong|Hòa Bình",
+      "Hòa Bình"
+    ],
+    [
+      " huyen van giang ",
+      "Huyện Văn Giang|Hưng Yên",
+      "Hưng Yên"
+    ],
+    [
+      " huyen cam giang ",
+      "Huyện Cẩm Giàng|Hải Dương",
+      "Hải Dương"
+    ],
+    [
+      " thi xa kinh mon ",
+      "Thị xã Kinh Môn|Hải Dương",
+      "Hải Dương"
+    ],
+    [
+      " huyen kim thanh ",
+      "Huyện Kim Thành|Hải Dương",
+      "Hải Dương"
+    ],
+    [
+      " quan duong kinh ",
+      "Quận Dương Kinh|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " huyen kien thuy ",
+      "Huyện Kiến Thuỵ|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " huyen tien lang ",
+      "Huyện Tiên Lãng|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " thi xa ninh hoa ",
+      "Thị xã Ninh Hòa|Khánh Hòa",
+      "Khánh Hòa"
+    ],
+    [
+      " huyen khanh son ",
+      "Huyện Khánh Sơn|Khánh Hòa",
+      "Khánh Hòa"
+    ],
+    [
+      " huyen kon plong ",
+      "Huyện Kon Plông|Kon Tum",
+      "Kon Tum"
+    ],
+    [
+      " huyen can giuoc ",
+      "Huyện Cần Giuộc|Long An",
+      "Long An"
+    ],
+    [
+      " huyen thanh hoa ",
+      "Huyện Thạnh Hóa|Long An",
+      "Long An"
+    ],
+    [
+      " huyen tan thanh ",
+      "Huyện Tân Thạnh|Long An",
+      "Long An"
+    ],
+    [
+      " huyen vinh hung ",
+      "Huyện Vĩnh Hưng|Long An",
+      "Long An"
+    ],
+    [
+      " huyen bao thang ",
+      "Huyện Bảo Thắng|Lào Cai",
+      "Lào Cai"
+    ],
+    [
+      " huyen duc trong ",
+      "Huyện Đức Trọng|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen don duong ",
+      "Huyện Đơn Dương|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen lac duong ",
+      "Huyện Lạc Dương|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen giao thuy ",
+      "Huyện Giao Thủy|Nam Định",
+      "Nam Định"
+    ],
+    [
+      " huyen truc ninh ",
+      "Huyện Trực Ninh|Nam Định",
+      "Nam Định"
+    ],
+    [
+      " huyen dien chau ",
+      "Huyện Diễn Châu|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " thi xa thai hoa ",
+      "Thị xã Thái Hòa|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " huyen quynh luu ",
+      "Huyện Quỳnh Lưu|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " huyen yen thanh ",
+      "Huyện Yên Thành|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " huyen yen khanh ",
+      "Huyện Yên Khánh|Ninh Bình",
+      "Ninh Bình"
+    ],
+    [
+      " huyen thuan nam ",
+      "Huyện Thuận Nam|Ninh Thuận",
+      "Ninh Thuận"
+    ],
+    [
+      " huyen thuan bac ",
+      "Huyện Thuận Bắc|Ninh Thuận",
+      "Ninh Thuận"
+    ],
+    [
+      " huyen thanh son ",
+      "Huyện Thanh Sơn|Phú Thọ",
+      "Phú Thọ"
+    ],
+    [
+      " thi xa dong hoa ",
+      "Thị xã Đông Hòa|Phú Yên",
+      "Phú Yên"
+    ],
+    [
+      " huyen song hinh ",
+      "Huyện Sông Hinh|Phú Yên",
+      "Phú Yên"
+    ],
+    [
+      " thi xa song cau ",
+      "Thị xã Sông Cầu|Phú Yên",
+      "Phú Yên"
+    ],
+    [
+      " huyen dong xuan ",
+      "Huyện Đồng Xuân|Phú Yên",
+      "Phú Yên"
+    ],
+    [
+      " thi xa dien ban ",
+      "Thị xã Điện Bàn|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen duy xuyen ",
+      "Huyện Duy Xuyên|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen nui thanh ",
+      "Huyện Núi Thành|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen nam giang ",
+      "Huyện Nam Giang|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen phuoc son ",
+      "Huyện Phước Sơn|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen vinh linh ",
+      "Huyện Vĩnh Linh|Quảng Trị",
+      "Quảng Trị"
+    ],
+    [
+      " huyen huong hoa ",
+      "Huyện Hướng Hóa|Quảng Trị",
+      "Quảng Trị"
+    ],
+    [
+      " huyen thanh tri ",
+      "Huyện Thạnh Trị|Sóc Trăng",
+      "Sóc Trăng"
+    ],
+    [
+      " huyen trieu son ",
+      "Huyện Triệu Sơn|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen hoang hoa ",
+      "Huyện Hoằng Hóa|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " thi xa nghi son ",
+      "Thị xã Nghi Sơn|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen nong cong ",
+      "Huyện Nông Cống|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen thieu hoa ",
+      "Huyện Thiệu Hóa|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen quynh phu ",
+      "Huyện Quỳnh Phụ|Thái Bình",
+      "Thái Bình"
+    ],
+    [
+      " huyen dong hung ",
+      "Huyện Đông Hưng|Thái Bình",
+      "Thái Bình"
+    ],
+    [
+      " huyen thai thuy ",
+      "Huyện Thái Thụy|Thái Bình",
+      "Thái Bình"
+    ],
+    [
+      " huyen phu luong ",
+      "Huyện Phú Lương|Thái Nguyên",
+      "Thái Nguyên"
+    ],
+    [
+      " huyen tan phuoc ",
+      "Huyện Tân Phước|Tiền Giang",
+      "Tiền Giang"
+    ],
+    [
+      " quan binh thanh ",
+      "Quận Bình Thạnh|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " huyen cang long ",
+      "Huyện Càng Long|Trà Vinh",
+      "Trà Vinh"
+    ],
+    [
+      " huyen cau ngang ",
+      "Huyện Cầu Ngang|Trà Vinh",
+      "Trà Vinh"
+    ],
+    [
+      " huyen duyen hai ",
+      "Huyện Duyên Hải|Trà Vinh",
+      "Trà Vinh"
+    ],
+    [
+      " huyen hoa thanh ",
+      "Huyện Hòa Thành|Tây Ninh",
+      "Tây Ninh"
+    ],
+    [
+      " huyen mang thit ",
+      "Huyện Mang Thít|Vĩnh Long",
+      "Vĩnh Long"
+    ],
+    [
+      " huyen vung liem ",
+      "Huyện Vũng Liêm|Vĩnh Long",
+      "Vĩnh Long"
+    ],
+    [
+      " huyen tam duong ",
+      "Huyện Tam Dương|Vĩnh Phúc",
+      "Vĩnh Phúc"
+    ],
+    [
+      " huyen lap thach ",
+      "Huyện Lập Thạch|Vĩnh Phúc",
+      "Vĩnh Phúc"
+    ],
+    [
+      " thi xa nghia lo ",
+      "Thị xã Nghĩa Lộ|Yên Bái",
+      "Yên Bái"
+    ],
+    [
+      " quan lien chieu ",
+      "Quận Liên Chiểu|Đà Nẵng",
+      "Đà Nẵng"
+    ],
+    [
+      " huyen krong pac ",
+      "Huyện Krông Pắc|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen krong buk ",
+      "Huyện Krông Búk|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen dak r'lap ",
+      "Huyện Đắk R'Lấp|Đắk Nông",
+      "Đắk Nông"
+    ],
+    [
+      " huyen dak glong ",
+      "Huyện Đăk Glong|Đắk Nông",
+      "Đắk Nông"
+    ],
+    [
+      " huyen trang bom ",
+      "Huyện Trảng Bom|Đồng Nai",
+      "Đồng Nai"
+    ],
+    [
+      " huyen dinh quan ",
+      "Huyện Định Quán|Đồng Nai",
+      "Đồng Nai"
+    ],
+    [
+      " huyen thap muoi ",
+      "Huyện Tháp Mười|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " huyen chau phu ",
+      "Huyện Châu Phú|An Giang",
+      "An Giang"
+    ],
+    [
+      " huyen chau duc ",
+      "Huyện Châu Đức|Bà Rịa - Vũng Tàu",
+      "Bà Rịa - Vũng Tàu"
+    ],
+    [
+      " thi xa ben cat ",
+      "Thị xã Bến Cát|Bình Dương",
+      "Bình Dương"
+    ],
+    [
+      " huyen bau bang ",
+      "Huyện Bàu Bàng|Bình Dương",
+      "Bình Dương"
+    ],
+    [
+      " huyen phu giao ",
+      "Huyện Phú Giáo|Bình Dương",
+      "Bình Dương"
+    ],
+    [
+      " huyen dong phu ",
+      "Huyện Đồng Phú|Bình Phước",
+      "Bình Phước"
+    ],
+    [
+      " huyen hon quan ",
+      "Huyện Hớn Quản|Bình Phước",
+      "Bình Phước"
+    ],
+    [
+      " huyen loc ninh ",
+      "Huyện Lộc Ninh|Bình Phước",
+      "Bình Phước"
+    ],
+    [
+      " huyen bac binh ",
+      "Huyện Bắc Bình|Bình Thuận",
+      "Bình Thuận"
+    ],
+    [
+      " huyen duc linh ",
+      "Huyện Đức Linh|Bình Thuận",
+      "Bình Thuận"
+    ],
+    [
+      " thi xa an nhon ",
+      "Thị xã An Nhơn|Bình Định",
+      "Bình Định"
+    ],
+    [
+      " huyen van canh ",
+      "Huyện Vân Canh|Bình Định",
+      "Bình Định"
+    ],
+    [
+      " thi xa gia rai ",
+      "Thị xã Giá Rai|Bạc Liêu",
+      "Bạc Liêu"
+    ],
+    [
+      " huyen vinh loi ",
+      "Huyện Vĩnh Lợi|Bạc Liêu",
+      "Bạc Liêu"
+    ],
+    [
+      " huyen hoa binh ",
+      "Huyện Hòa Bình|Bạc Liêu",
+      "Bạc Liêu"
+    ],
+    [
+      " huyen dong hai ",
+      "Huyện Đông Hải|Bạc Liêu",
+      "Bạc Liêu"
+    ],
+    [
+      " huyen hong dan ",
+      "Huyện Hồng Dân|Bạc Liêu",
+      "Bạc Liêu"
+    ],
+    [
+      " huyen viet yen ",
+      "Huyện Việt Yên|Bắc Giang",
+      "Bắc Giang"
+    ],
+    [
+      " huyen hiep hoa ",
+      "Huyện Hiệp Hòa|Bắc Giang",
+      "Bắc Giang"
+    ],
+    [
+      " huyen luc ngan ",
+      "Huyện Lục Ngạn|Bắc Giang",
+      "Bắc Giang"
+    ],
+    [
+      " huyen yen dung ",
+      "Huyện Yên Dũng|Bắc Giang",
+      "Bắc Giang"
+    ],
+    [
+      " huyen gia binh ",
+      "Huyện Gia Bình|Bắc Ninh",
+      "Bắc Ninh"
+    ],
+    [
+      " huyen binh dai ",
+      "Huyện Bình Đại|Bến Tre",
+      "Bến Tre"
+    ],
+    [
+      " huyen cho lach ",
+      "Huyện Chợ Lách|Bến Tre",
+      "Bến Tre"
+    ],
+    [
+      " huyen cai nuoc ",
+      "Huyện Cái Nước|Cà Mau",
+      "Cà Mau"
+    ],
+    [
+      " quan ninh kieu ",
+      "Quận Ninh Kiều|Cần Thơ",
+      "Cần Thơ"
+    ],
+    [
+      " quan binh thuy ",
+      "Quận Bình Thuỷ|Cần Thơ",
+      "Cần Thơ"
+    ],
+    [
+      " huyen thoi lai ",
+      "Huyện Thới Lai|Cần Thơ",
+      "Cần Thơ"
+    ],
+    [
+      " thi xa ayun pa ",
+      "Thị xã Ayun Pa|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " huyen krong pa ",
+      "Huyện Krông Pa|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " huyen kim bang ",
+      "Huyện Kim Bảng|Hà Nam",
+      "Hà Nam"
+    ],
+    [
+      " huyen binh luc ",
+      "Huyện Bình Lục|Hà Nam",
+      "Hà Nam"
+    ],
+    [
+      " quan hoang mai ",
+      "Quận Hoàng Mai|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " quan long bien ",
+      "Quận Long Biên|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen dong anh ",
+      "Huyện Đông Anh|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen hoai duc ",
+      "Huyện Hoài Đức|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " quan hoan kiem ",
+      "Quận Hoàn Kiếm|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen quoc oai ",
+      "Huyện Quốc Oai|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " thi xa son tay ",
+      "Thị xã Sơn Tây|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen phuc tho ",
+      "Huyện Phúc Thọ|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen thach ha ",
+      "Huyện Thạch Hà|Hà Tĩnh",
+      "Hà Tĩnh"
+    ],
+    [
+      " huyen lac thuy ",
+      "Huyện Lạc Thủy|Hòa Bình",
+      "Hòa Bình"
+    ],
+    [
+      " huyen yen thuy ",
+      "Huyện Yên Thủy|Hòa Bình",
+      "Hòa Bình"
+    ],
+    [
+      " huyen mai chau ",
+      "Huyện Mai Châu|Hòa Bình",
+      "Hòa Bình"
+    ],
+    [
+      " huyen kim dong ",
+      "Huyện Kim Động|Hưng Yên",
+      "Hưng Yên"
+    ],
+    [
+      " huyen nam sach ",
+      "Huyện Nam Sách|Hải Dương",
+      "Hải Dương"
+    ],
+    [
+      " huyen thanh ha ",
+      "Huyện Thanh Hà|Hải Dương",
+      "Hải Dương"
+    ],
+    [
+      " huyen an duong ",
+      "Huyện An Dương|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " quan hong bang ",
+      "Quận Hồng Bàng|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " quan ngo quyen ",
+      "Quận Ngô Quyền|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " huyen vinh bao ",
+      "Huyện Vĩnh Bảo|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " thi xa long my ",
+      "Thị xã Long Mỹ|Hậu Giang",
+      "Hậu Giang"
+    ],
+    [
+      " huyen van ninh ",
+      "Huyện Vạn Ninh|Khánh Hòa",
+      "Khánh Hòa"
+    ],
+    [
+      " huyen tan hiep ",
+      "Huyện Tân Hiệp|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " huyen kien hai ",
+      "Huyện Kiên Hải|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " huyen ngoc hoi ",
+      "Huyện Ngọc Hồi|Kon Tum",
+      "Kon Tum"
+    ],
+    [
+      " huyen dak glei ",
+      "Huyện Đắk Glei|Kon Tum",
+      "Kon Tum"
+    ],
+    [
+      " huyen can duoc ",
+      "Huyện Cần Đước|Long An",
+      "Long An"
+    ],
+    [
+      " huyen thu thua ",
+      "Huyện Thủ Thừa|Long An",
+      "Long An"
+    ],
+    [
+      " huyen tan hung ",
+      "Huyện Tân Hưng|Long An",
+      "Long An"
+    ],
+    [
+      " huyen da huoai ",
+      "Huyện Đạ Huoai|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen cat tien ",
+      "Huyện Cát Tiên|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen dam rong ",
+      "Huyện Đam Rông|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen nam truc ",
+      "Huyện Nam Trực|Nam Định",
+      "Nam Định"
+    ],
+    [
+      " thanh pho vinh ",
+      "Thành phố Vinh|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " huyen nghi loc ",
+      "Huyện Nghi Lộc|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " huyen do luong ",
+      "Huyện Đô Lương|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " huyen gia vien ",
+      "Huyện Gia Viễn|Ninh Bình",
+      "Ninh Bình"
+    ],
+    [
+      " huyen nho quan ",
+      "Huyện Nho Quan|Ninh Bình",
+      "Ninh Bình"
+    ],
+    [
+      " huyen ninh hai ",
+      "Huyện Ninh Hải|Ninh Thuận",
+      "Ninh Thuận"
+    ],
+    [
+      " huyen ninh son ",
+      "Huyện Ninh Sơn|Ninh Thuận",
+      "Ninh Thuận"
+    ],
+    [
+      " thi xa phu tho ",
+      "Thị xã Phú Thọ|Phú Thọ",
+      "Phú Thọ"
+    ],
+    [
+      " huyen tam nong ",
+      "Huyện Tam Nông|Phú Thọ",
+      "Phú Thọ"
+    ],
+    [
+      " huyen lam thao ",
+      "Huyện Lâm Thao|Phú Thọ",
+      "Phú Thọ"
+    ],
+    [
+      " huyen thanh ba ",
+      "Huyện Thanh Ba|Phú Thọ",
+      "Phú Thọ"
+    ],
+    [
+      " huyen phu ninh ",
+      "Huyện Phù Ninh|Phú Thọ",
+      "Phú Thọ"
+    ],
+    [
+      " huyen bo trach ",
+      "Huyện Bố Trạch|Quảng Bình",
+      "Quảng Bình"
+    ],
+    [
+      " huyen phu ninh ",
+      "Huyện Phú Ninh|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen hiep duc ",
+      "Huyện Hiệp Đức|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen tu nghia ",
+      "Huyện Tư Nghĩa|Quảng Ngãi",
+      "Quảng Ngãi"
+    ],
+    [
+      " huyen son tinh ",
+      "Huyện Sơn Tịnh|Quảng Ngãi",
+      "Quảng Ngãi"
+    ],
+    [
+      " huyen binh son ",
+      "Huyện Bình Sơn|Quảng Ngãi",
+      "Quảng Ngãi"
+    ],
+    [
+      " thi xa duc pho ",
+      "Thị xã Đức Phổ|Quảng Ngãi",
+      "Quảng Ngãi"
+    ],
+    [
+      " huyen gio linh ",
+      "Huyện Gio Linh|Quảng Trị",
+      "Quảng Trị"
+    ],
+    [
+      " huyen hai lang ",
+      "Huyện Hải Lăng|Quảng Trị",
+      "Quảng Trị"
+    ],
+    [
+      " huyen my xuyen ",
+      "Huyện Mỹ Xuyên|Sóc Trăng",
+      "Sóc Trăng"
+    ],
+    [
+      " huyen long phu ",
+      "Huyện Long Phú|Sóc Trăng",
+      "Sóc Trăng"
+    ],
+    [
+      " thi xa nga nam ",
+      "Thị xã Ngã Năm|Sóc Trăng",
+      "Sóc Trăng"
+    ],
+    [
+      " huyen moc chau ",
+      "Huyện Mộc Châu|Sơn La",
+      "Sơn La"
+    ],
+    [
+      " huyen ngoc lac ",
+      "Huyện Ngọc Lặc|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen dong son ",
+      "Huyện Đông Sơn|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen tho xuan ",
+      "Huyện Thọ Xuân|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen cam thuy ",
+      "Huyện Cẩm Thủy|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen yen dinh ",
+      "Huyện Yên Định|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen ha trung ",
+      "Huyện Hà Trung|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen ba thuoc ",
+      "Huyện Bá Thước|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " thi xa bim son ",
+      "Thị xã Bỉm Sơn|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen tien hai ",
+      "Huyện Tiền Hải|Thái Bình",
+      "Thái Bình"
+    ],
+    [
+      " thi xa pho yen ",
+      "Thị xã Phổ Yên|Thái Nguyên",
+      "Thái Nguyên"
+    ],
+    [
+      " huyen phu binh ",
+      "Huyện Phú Bình|Thái Nguyên",
+      "Thái Nguyên"
+    ],
+    [
+      " huyen phu vang ",
+      "Huyện Phú Vang|Thừa Thiên Huế",
+      "Thừa Thiên Huế"
+    ],
+    [
+      " huyen nam dong ",
+      "Huyện Nam Đông|Thừa Thiên Huế",
+      "Thừa Thiên Huế"
+    ],
+    [
+      " thi xa go cong ",
+      "Thị xã Gò Công|Tiền Giang",
+      "Tiền Giang"
+    ],
+    [
+      " thi xa cai lay ",
+      "Thị xã Cai Lậy|Tiền Giang",
+      "Tiền Giang"
+    ],
+    [
+      " quan phu nhuan ",
+      "Quận Phú Nhuận|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " huyen tieu can ",
+      "Huyện Tiểu Cần|Trà Vinh",
+      "Trà Vinh"
+    ],
+    [
+      " huyen tan chau ",
+      "Huyện Tân Châu|Tây Ninh",
+      "Tây Ninh"
+    ],
+    [
+      " huyen tan bien ",
+      "Huyện Tân Biên|Tây Ninh",
+      "Tây Ninh"
+    ],
+    [
+      " huyen tam binh ",
+      "Huyện Tam Bình|Vĩnh Long",
+      "Vĩnh Long"
+    ],
+    [
+      " huyen binh tan ",
+      "Huyện Bình Tân|Vĩnh Long",
+      "Vĩnh Long"
+    ],
+    [
+      " huyen van chan ",
+      "Huyện Văn Chấn|Yên Bái",
+      "Yên Bái"
+    ],
+    [
+      " huyen tran yen ",
+      "Huyện Trấn Yên|Yên Bái",
+      "Yên Bái"
+    ],
+    [
+      " quan thanh khe ",
+      "Quận Thanh Khê|Đà Nẵng",
+      "Đà Nẵng"
+    ],
+    [
+      " huyen hoa vang ",
+      "Huyện Hòa Vang|Đà Nẵng",
+      "Đà Nẵng"
+    ],
+    [
+      " huyen cu m'gar ",
+      "Huyện Cư M'gar|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " thi xa buon ho ",
+      "Thị Xã Buôn Hồ|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen buon don ",
+      "Huyện Buôn Đôn|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen ea h'leo ",
+      "Huyện Ea H'leo|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen dak song ",
+      "Huyện Đắk Song|Đắk Nông",
+      "Đắk Nông"
+    ],
+    [
+      " huyen krong no ",
+      "Huyện Krông Nô|Đắk Nông",
+      "Đắk Nông"
+    ],
+    [
+      " huyen vinh cuu ",
+      "Huyện Vĩnh Cửu|Đồng Nai",
+      "Đồng Nai"
+    ],
+    [
+      " huyen xuan loc ",
+      "Huyện Xuân Lộc|Đồng Nai",
+      "Đồng Nai"
+    ],
+    [
+      " huyen cao lanh ",
+      "Huyện Cao Lãnh|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " huyen lai vung ",
+      "Huyện Lai Vung|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " huyen tam nong ",
+      "Huyện Tam Nông|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " huyen tan hong ",
+      "Huyện Tân Hồng|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " huyen hong ngu ",
+      "Huyện Hồng Ngự|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " huyen cho moi ",
+      "Huyện Chợ Mới|An Giang",
+      "An Giang"
+    ],
+    [
+      " huyen tri ton ",
+      "Huyện Tri Tôn|An Giang",
+      "An Giang"
+    ],
+    [
+      " huyen phu tan ",
+      "Huyện Phú Tân|An Giang",
+      "An Giang"
+    ],
+    [
+      " thi xa phu my ",
+      "Thị xã Phú Mỹ|Bà Rịa - Vũng Tàu",
+      "Bà Rịa - Vũng Tàu"
+    ],
+    [
+      " huyen con dao ",
+      "Huyện Côn Đảo|Bà Rịa - Vũng Tàu",
+      "Bà Rịa - Vũng Tàu"
+    ],
+    [
+      " huyen bu dang ",
+      "Huyện Bù Đăng|Bình Phước",
+      "Bình Phước"
+    ],
+    [
+      " huyen ham tan ",
+      "Huyện Hàm Tân|Bình Thuận",
+      "Bình Thuận"
+    ],
+    [
+      " huyen phu qui ",
+      "Huyện Phú Quí|Bình Thuận",
+      "Bình Thuận"
+    ],
+    [
+      " huyen phu cat ",
+      "Huyện Phù Cát|Bình Định",
+      "Bình Định"
+    ],
+    [
+      " huyen tay son ",
+      "Huyện Tây Sơn|Bình Định",
+      "Bình Định"
+    ],
+    [
+      " huyen tan yen ",
+      "Huyện Tân Yên|Bắc Giang",
+      "Bắc Giang"
+    ],
+    [
+      " huyen luc nam ",
+      "Huyện Lục Nam|Bắc Giang",
+      "Bắc Giang"
+    ],
+    [
+      " huyen yen the ",
+      "Huyện Yên Thế|Bắc Giang",
+      "Bắc Giang"
+    ],
+    [
+      " thi xa tu son ",
+      "Thị xã Từ Sơn|Bắc Ninh",
+      "Bắc Ninh"
+    ],
+    [
+      " huyen tien du ",
+      "Huyện Tiên Du|Bắc Ninh",
+      "Bắc Ninh"
+    ],
+    [
+      " huyen dam doi ",
+      "Huyện Đầm Dơi|Cà Mau",
+      "Cà Mau"
+    ],
+    [
+      " huyen nam can ",
+      "Huyện Năm Căn|Cà Mau",
+      "Cà Mau"
+    ],
+    [
+      " quan cai rang ",
+      "Quận Cái Răng|Cần Thơ",
+      "Cần Thơ"
+    ],
+    [
+      " quan thot not ",
+      "Quận Thốt Nốt|Cần Thơ",
+      "Cần Thơ"
+    ],
+    [
+      " huyen ia grai ",
+      "Huyện Ia Grai|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " huyen chu pah ",
+      "Huyện Chư Păh|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " huyen dak doa ",
+      "Huyện Đăk Đoa|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " huyen chu puh ",
+      "Huyện Chư Pưh|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " thi xa an khe ",
+      "Thị xã An Khê|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " huyen ly nhan ",
+      "Huyện Lý Nhân|Hà Nam",
+      "Hà Nam"
+    ],
+    [
+      " quan cau giay ",
+      "Quận Cầu Giấy|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen gia lam ",
+      "Huyện Gia Lâm|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen soc son ",
+      "Huyện Sóc Sơn|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen me linh ",
+      "Huyện Mê Linh|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen ung hoa ",
+      "Huyện Ứng Hòa|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " thi xa ky anh ",
+      "Thị xã Kỳ Anh|Hà Tĩnh",
+      "Hà Tĩnh"
+    ],
+    [
+      " huyen duc tho ",
+      "Huyện Đức Thọ|Hà Tĩnh",
+      "Hà Tĩnh"
+    ],
+    [
+      " huyen kim boi ",
+      "Huyện Kim Bôi|Hòa Bình",
+      "Hòa Bình"
+    ],
+    [
+      " huyen lac son ",
+      "Huyện Lạc Sơn|Hòa Bình",
+      "Hòa Bình"
+    ],
+    [
+      " huyen tan lac ",
+      "Huyện Tân Lạc|Hòa Bình",
+      "Hòa Bình"
+    ],
+    [
+      " thi xa my hao ",
+      "Thị xã Mỹ Hào|Hưng Yên",
+      "Hưng Yên"
+    ],
+    [
+      " huyen van lam ",
+      "Huyện Văn Lâm|Hưng Yên",
+      "Hưng Yên"
+    ],
+    [
+      " huyen tien lu ",
+      "Huyện Tiên Lữ|Hưng Yên",
+      "Hưng Yên"
+    ],
+    [
+      " huyen gia loc ",
+      "Huyện Gia Lộc|Hải Dương",
+      "Hải Dương"
+    ],
+    [
+      " huyen cat hai ",
+      "Huyện Cát Hải|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " huyen vi thuy ",
+      "Huyện Vị Thuỷ|Hậu Giang",
+      "Hậu Giang"
+    ],
+    [
+      " huyen long my ",
+      "Huyện Long Mỹ|Hậu Giang",
+      "Hậu Giang"
+    ],
+    [
+      " huyen cam lam ",
+      "Huyện Cam Lâm|Khánh Hòa",
+      "Khánh Hòa"
+    ],
+    [
+      " huyen hon dat ",
+      "Huyện Hòn Đất|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " huyen an bien ",
+      "Huyện An Biên|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " huyen go quao ",
+      "Huyện Gò Quao|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " huyen an minh ",
+      "Huyện An Minh|Kiên Giang",
+      "Kiên Giang"
+    ],
+    [
+      " huyen sa thay ",
+      "Huyện Sa Thầy|Kon Tum",
+      "Kon Tum"
+    ],
+    [
+      " huyen duc hoa ",
+      "Huyện Đức Hòa|Long An",
+      "Long An"
+    ],
+    [
+      " huyen ben luc ",
+      "Huyện Bến Lức|Long An",
+      "Long An"
+    ],
+    [
+      " huyen tan tru ",
+      "Huyện Tân Trụ|Long An",
+      "Long An"
+    ],
+    [
+      " huyen duc hue ",
+      "Huyện Đức Huệ|Long An",
+      "Long An"
+    ],
+    [
+      " huyen moc hoa ",
+      "Huyện Mộc Hóa|Long An",
+      "Long An"
+    ],
+    [
+      " huyen bao lam ",
+      "Huyện Bảo Lâm|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen di linh ",
+      "Huyện Di Linh|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen hai hau ",
+      "Huyện Hải Hậu|Nam Định",
+      "Nam Định"
+    ],
+    [
+      " thi xa cua lo ",
+      "Thị xã Cửa Lò|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " huyen nam dan ",
+      "Huyện Nam Đàn|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " huyen anh son ",
+      "Huyện Anh Sơn|Nghệ An",
+      "Nghệ An"
+    ],
+    [
+      " huyen kim son ",
+      "Huyện Kim Sơn|Ninh Bình",
+      "Ninh Bình"
+    ],
+    [
+      " huyen tan son ",
+      "Huyện Tân Sơn|Phú Thọ",
+      "Phú Thọ"
+    ],
+    [
+      " huyen yen lap ",
+      "Huyện Yên Lập|Phú Thọ",
+      "Phú Thọ"
+    ],
+    [
+      " huyen cam khe ",
+      "Huyện Cẩm Khê|Phú Thọ",
+      "Phú Thọ"
+    ],
+    [
+      " huyen son hoa ",
+      "Huyện Sơn Hòa|Phú Yên",
+      "Phú Yên"
+    ],
+    [
+      " huyen phu hoa ",
+      "Huyện Phú Hòa|Phú Yên",
+      "Phú Yên"
+    ],
+    [
+      " huyen tay hoa ",
+      "Huyện Tây Hòa|Phú Yên",
+      "Phú Yên"
+    ],
+    [
+      " huyen le thuy ",
+      "Huyện Lệ Thủy|Quảng Bình",
+      "Quảng Bình"
+    ],
+    [
+      " huyen dai loc ",
+      "Huyện Đại Lộc|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen que son ",
+      "Huyện Quế Sơn|Quảng Nam",
+      "Quảng Nam"
+    ],
+    [
+      " huyen van don ",
+      "Huyện Vân Đồn|Quảng Ninh",
+      "Quảng Ninh"
+    ],
+    [
+      " huyen tran de ",
+      "Huyện Trần Đề|Sóc Trăng",
+      "Sóc Trăng"
+    ],
+    [
+      " huyen ke sach ",
+      "Huyện Kế Sách|Sóc Trăng",
+      "Sóc Trăng"
+    ],
+    [
+      " huyen nga son ",
+      "Huyện Nga Sơn|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen hau loc ",
+      "Huyện Hậu Lộc|Thanh Hóa",
+      "Thanh Hóa"
+    ],
+    [
+      " huyen hung ha ",
+      "Huyện Hưng Hà|Thái Bình",
+      "Thái Bình"
+    ],
+    [
+      " thanh pho hue ",
+      "Thành phố Huế|Thừa Thiên Huế",
+      "Thừa Thiên Huế"
+    ],
+    [
+      " huyen phu loc ",
+      "Huyện Phú Lộc|Thừa Thiên Huế",
+      "Thừa Thiên Huế"
+    ],
+    [
+      " huyen cho gao ",
+      "Huyện Chợ Gạo|Tiền Giang",
+      "Tiền Giang"
+    ],
+    [
+      " huyen cai lay ",
+      "Huyện Cai Lậy|Tiền Giang",
+      "Tiền Giang"
+    ],
+    [
+      " quan binh tan ",
+      "Quận Bình Tân|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " quan tan binh ",
+      "Quận Tân Bình|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " huyen hoc mon ",
+      "Huyện Hóc Môn|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " huyen can gio ",
+      "Huyện Cần Giờ|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " huyen yen son ",
+      "Huyện Yên Sơn|Tuyên Quang",
+      "Tuyên Quang"
+    ],
+    [
+      " huyen ben cau ",
+      "Huyện Bến Cầu|Tây Ninh",
+      "Tây Ninh"
+    ],
+    [
+      " huyen long ho ",
+      "Huyện Long Hồ|Vĩnh Long",
+      "Vĩnh Long"
+    ],
+    [
+      " huyen tam dao ",
+      "Huyện Tam Đảo|Vĩnh Phúc",
+      "Vĩnh Phúc"
+    ],
+    [
+      " huyen yen lac ",
+      "Huyện Yên Lạc|Vĩnh Phúc",
+      "Vĩnh Phúc"
+    ],
+    [
+      " quan hai chau ",
+      "Quận Hải Châu|Đà Nẵng",
+      "Đà Nẵng"
+    ],
+    [
+      " huyen cu kuin ",
+      "Huyện Cư Kuin|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen dak mil ",
+      "Huyện Đắk Mil|Đắk Nông",
+      "Đắk Nông"
+    ],
+    [
+      " huyen tuy duc ",
+      "Huyện Tuy Đức|Đắk Nông",
+      "Đắk Nông"
+    ],
+    [
+      " huyen tan phu ",
+      "Huyện Tân Phú|Đồng Nai",
+      "Đồng Nai"
+    ],
+    [
+      " huyen an phu ",
+      "Huyện An Phú|An Giang",
+      "An Giang"
+    ],
+    [
+      " huyen dat do ",
+      "Huyện Đất Đỏ|Bà Rịa - Vũng Tàu",
+      "Bà Rịa - Vũng Tàu"
+    ],
+    [
+      " huyen bu dop ",
+      "Huyện Bù Đốp|Bình Phước",
+      "Bình Phước"
+    ],
+    [
+      " thi xa la gi ",
+      "Thị xã La Gi|Bình Thuận",
+      "Bình Thuận"
+    ],
+    [
+      " huyen phu my ",
+      "Huyện Phù Mỹ|Bình Định",
+      "Bình Định"
+    ],
+    [
+      " huyen que vo ",
+      "Huyện Quế Võ|Bắc Ninh",
+      "Bắc Ninh"
+    ],
+    [
+      " huyen ba tri ",
+      "Huyện Ba Tri|Bến Tre",
+      "Bến Tre"
+    ],
+    [
+      " huyen u minh ",
+      "Huyện U Minh|Cà Mau",
+      "Cà Mau"
+    ],
+    [
+      " huyen chu se ",
+      "Huyện Chư Sê|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " huyen duc co ",
+      "Huyện Đức Cơ|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " quan dong da ",
+      "Quận Đống Đa|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " quan ha dong ",
+      "Quận Hà Đông|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " quan ba dinh ",
+      "Quận Ba Đình|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen my duc ",
+      "Huyện Mỹ Đức|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen loc ha ",
+      "Huyện Lộc Hà|Hà Tĩnh",
+      "Hà Tĩnh"
+    ],
+    [
+      " huyen ky anh ",
+      "Huyện Kỳ Anh|Hà Tĩnh",
+      "Hà Tĩnh"
+    ],
+    [
+      " huyen da bac ",
+      "Huyện Đà Bắc|Hòa Bình",
+      "Hòa Bình"
+    ],
+    [
+      " huyen yen my ",
+      "Huyện Yên Mỹ|Hưng Yên",
+      "Hưng Yên"
+    ],
+    [
+      " huyen an thi ",
+      "Huyện Ân Thi|Hưng Yên",
+      "Hưng Yên"
+    ],
+    [
+      " huyen phu cu ",
+      "Huyện Phù Cừ|Hưng Yên",
+      "Hưng Yên"
+    ],
+    [
+      " quan le chan ",
+      "Quận Lê Chân|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " quan kien an ",
+      "Quận Kiến An|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " huyen an lao ",
+      "Huyện An Lão|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " huyen dak ha ",
+      "Huyện Đắk Hà|Kon Tum",
+      "Kon Tum"
+    ],
+    [
+      " huyen dak to ",
+      "Huyện Đắk Tô|Kon Tum",
+      "Kon Tum"
+    ],
+    [
+      " thi xa sa pa ",
+      "Thị xã Sa Pa|Lào Cai",
+      "Lào Cai"
+    ],
+    [
+      " huyen lam ha ",
+      "Huyện Lâm Hà|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen da teh ",
+      "Huyện Đạ Tẻh|Lâm Đồng",
+      "Lâm Đồng"
+    ],
+    [
+      " huyen my loc ",
+      "Huyện Mỹ Lộc|Nam Định",
+      "Nam Định"
+    ],
+    [
+      " huyen vu ban ",
+      "Huyện Vụ Bản|Nam Định",
+      "Nam Định"
+    ],
+    [
+      " huyen hoa lu ",
+      "Huyện Hoa Lư|Ninh Bình",
+      "Ninh Bình"
+    ],
+    [
+      " huyen yen mo ",
+      "Huyện Yên Mô|Ninh Bình",
+      "Ninh Bình"
+    ],
+    [
+      " huyen bac ai ",
+      "Huyện Bác Ái|Ninh Thuận",
+      "Ninh Thuận"
+    ],
+    [
+      " huyen tuy an ",
+      "Huyện Tuy An|Phú Yên",
+      "Phú Yên"
+    ],
+    [
+      " huyen mo duc ",
+      "Huyện Mộ Đức|Quảng Ngãi",
+      "Quảng Ngãi"
+    ],
+    [
+      " huyen ly son ",
+      "Huyện Lý Sơn|Quảng Ngãi",
+      "Quảng Ngãi"
+    ],
+    [
+      " huyen cam lo ",
+      "Huyện Cam Lộ|Quảng Trị",
+      "Quảng Trị"
+    ],
+    [
+      " huyen vu thu ",
+      "Huyện Vũ Thư|Thái Bình",
+      "Thái Bình"
+    ],
+    [
+      " huyen dai tu ",
+      "Huyện Đại Từ|Thái Nguyên",
+      "Thái Nguyên"
+    ],
+    [
+      " huyen cai be ",
+      "Huyện Cái Bè|Tiền Giang",
+      "Tiền Giang"
+    ],
+    [
+      " quan tan phu ",
+      "Quận Tân Phú|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " huyen nha be ",
+      "Huyện Nhà Bè|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " huyen cu chi ",
+      "Huyện Củ Chi|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " huyen cau ke ",
+      "Huyện Cầu Kè|Trà Vinh",
+      "Trà Vinh"
+    ],
+    [
+      " huyen tra cu ",
+      "Huyện Trà Cú|Trà Vinh",
+      "Trà Vinh"
+    ],
+    [
+      " huyen go dau ",
+      "Huyện Gò Dầu|Tây Ninh",
+      "Tây Ninh"
+    ],
+    [
+      " huyen tra on ",
+      "Huyện Trà Ôn|Vĩnh Long",
+      "Vĩnh Long"
+    ],
+    [
+      " quan son tra ",
+      "Quận Sơn Trà|Đà Nẵng",
+      "Đà Nẵng"
+    ],
+    [
+      " huyen ea kar ",
+      "Huyện Ea Kar|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen m'drak ",
+      "Huyện M'Đrắk|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen ea sup ",
+      "Huyện Ea Súp|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " huyen cu jut ",
+      "Huyện Cư Jút|Đắk Nông",
+      "Đắk Nông"
+    ],
+    [
+      " huyen cam my ",
+      "Huyện Cẩm Mỹ|Đồng Nai",
+      "Đồng Nai"
+    ],
+    [
+      " huyen lap vo ",
+      "Huyện Lấp Vò|Đồng Tháp",
+      "Đồng Tháp"
+    ],
+    [
+      " huyen co do ",
+      "Huyện Cờ Đỏ|Cần Thơ",
+      "Cần Thơ"
+    ],
+    [
+      " huyen kbang ",
+      "Huyện KBang|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " huyen ia pa ",
+      "Huyện Ia Pa|Gia Lai",
+      "Gia Lai"
+    ],
+    [
+      " quan tay ho ",
+      "Quận Tây Hồ|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen ba vi ",
+      "Huyện Ba Vì|Hà Nội",
+      "Hà Nội"
+    ],
+    [
+      " huyen tu ky ",
+      "Huyện Tứ Kỳ|Hải Dương",
+      "Hải Dương"
+    ],
+    [
+      " quan hai an ",
+      "Quận Hải An|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " quan do son ",
+      "Quận Đồ Sơn|Hải Phòng",
+      "Hải Phòng"
+    ],
+    [
+      " huyen y yen ",
+      "Huyện Ý Yên|Nam Định",
+      "Nam Định"
+    ],
+    [
+      " huyen co to ",
+      "Huyện Cô Tô|Quảng Ninh",
+      "Quảng Ninh"
+    ],
+    [
+      " huyen my tu ",
+      "Huyện Mỹ Tú|Sóc Trăng",
+      "Sóc Trăng"
+    ],
+    [
+      " quan go vap ",
+      "Quận Gò Vấp|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " quan cam le ",
+      "Quận Cẩm Lệ|Đà Nẵng",
+      "Đà Nẵng"
+    ],
+    [
+      " quan o mon ",
+      "Quận Ô Môn|Cần Thơ",
+      "Cần Thơ"
+    ],
+    [
+      " huyen lak ",
+      "Huyện Lắk|Đắk Lắk",
+      "Đắk Lắk"
+    ],
+    [
+      " quan 12 ",
+      "Quận 12|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " quan 10 ",
+      "Quận 10|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " quan 11 ",
+      "Quận 11|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " quan 7 ",
+      "Quận 7|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " quan 8 ",
+      "Quận 8|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " quan 1 ",
+      "Quận 1|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " quan 3 ",
+      "Quận 3|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " quan 6 ",
+      "Quận 6|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " quan 5 ",
+      "Quận 5|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ],
+    [
+      " quan 4 ",
+      "Quận 4|Tp Hồ Chí Minh",
+      "Tp Hồ Chí Minh"
+    ]
+  ]
+}

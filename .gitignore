@@ -1,0 +1,115 @@
+# =============================================================================
+# Datathon BitBuds — KHÔNG push dữ liệu / artifact nặng lên GitHub
+# Chỉ giữ: .py, .ipynb, .md, requirements, cấu hình nhẹ
+# =============================================================================
+
+# --- Raw & derived data (parquet, csv, db, ...) ---
+*.parquet
+*.pq
+*.csv
+*.tsv
+*.feather
+*.arrow
+*.orc
+*.avro
+*.jsonl
+*.ndjson
+*.duckdb
+*.sqlite
+*.sqlite3
+*.db
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.npz
+*.npy
+*.pt
+*.pth
+*.onnx
+*.bin
+*.model
+
+# --- Thư mục dữ liệu cuộc thi & phân tích nặng ---
+train/
+ground_truth/
+dim_listing/
+fact_listing_snapshot/
+fact_post_contact_interactions/
+fact_user_events/
+test/
+Sub_Score/
+Thinh_Analyze/duckdb_temp_space/
+Thinh_Analyze/*.parquet
+Thinh_Analyze/*.duckdb
+
+# --- Kết quả chạy pipeline (regenerate được) ---
+outputs/
+submission*.csv
+Submission*.csv
+
+# --- Slides / hình / file nặng khác ---
+*.pptx
+*.ppt
+*.key
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.ico
+*.mp4
+*.mov
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+
+# --- Python virtual env & cache ---
+env/
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- Jupyter / notebook artifacts ---
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# --- OS / IDE / temp ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.tmp/
+.mplconfig/
+*.log
+.cache/
+
+# --- Secrets (phòng nhỡ) ---
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
