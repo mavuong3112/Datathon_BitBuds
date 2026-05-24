@@ -1,3 +1,5 @@
+### https://canva.link/8x8dak5xfnpdjak
+
 <img width="2382" height="1346" alt="image" src="https://github.com/user-attachments/assets/9404f47d-e7c9-440b-9975-1b719cbfc90e" />
 <img width="2370" height="1334" alt="image" src="https://github.com/user-attachments/assets/fe4a54a1-4f7d-41bd-ad59-d2de28afe5b4" />
 <img width="2366" height="1336" alt="image" src="https://github.com/user-attachments/assets/ced09c36-2683-4b0e-bd1d-07f31378bcab" />
@@ -10,7 +12,6 @@
 <img width="2348" height="1316" alt="image" src="https://github.com/user-attachments/assets/8237583f-1626-4116-ba69-5ef5078039b9" />
 <img width="2342" height="1322" alt="image" src="https://github.com/user-attachments/assets/9f8114c8-ba53-41a9-945f-4b470a958811" />
 
-https://canva.link/8x8dak5xfnpdjak
 
 ## Giới thiệu
 
