@@ -1,3 +1,25 @@
+<img width="2382" height="1346" alt="image" src="https://github.com/user-attachments/assets/9404f47d-e7c9-440b-9975-1b719cbfc90e" />
+<img width="2370" height="1334" alt="image" src="https://github.com/user-attachments/assets/fe4a54a1-4f7d-41bd-ad59-d2de28afe5b4" />
+<img width="2366" height="1336" alt="image" src="https://github.com/user-attachments/assets/ced09c36-2683-4b0e-bd1d-07f31378bcab" />
+<img width="2364" height="1326" alt="image" src="https://github.com/user-attachments/assets/980f7f02-66e6-4b48-8c26-20ffd45936e7" />
+<img width="2368" height="1324" alt="image" src="https://github.com/user-attachments/assets/9a6d3651-5264-4789-a131-14dbffdaa03e" />
+<img width="2364" height="1336" alt="image" src="https://github.com/user-attachments/assets/a0631874-0b35-46e6-9896-024bc36ce053" />
+<img width="2364" height="1334" alt="image" src="https://github.com/user-attachments/assets/df0eb2a0-e26c-4fa4-b04f-9e4ceefeeaf2" />
+<img width="2360" height="1308" alt="image" src="https://github.com/user-attachments/assets/95170dcd-2f89-4e25-bc4d-94c33c3e4892" />
+<img width="2368" height="1296" alt="image" src="https://github.com/user-attachments/assets/9b708d9f-c556-46ae-9612-4e5903df1826" />
+<img width="2348" height="1316" alt="image" src="https://github.com/user-attachments/assets/8237583f-1626-4116-ba69-5ef5078039b9" />
+<img width="2342" height="1322" alt="image" src="https://github.com/user-attachments/assets/9f8114c8-ba53-41a9-945f-4b470a958811" />
+
+
+
+
+
+
+
+
+
+
+
 ## Giới thiệu
 
 Chợ Tốt là một trong những sàn thương mại điện tử C2C hàng đầu Việt Nam, với mảng bất động sản (BĐS) bao gồm các phân khúc cho thuê, căn hộ chung cư, nhà ở, đất nền và dự án phát triển mới. Mô hình kinh doanh của nền tảng dựa trên **tạo lead (lead-generation)**: doanh thu phát sinh khi người dùng tiến hành liên hệ thực sự với người bán — xem số điện thoại, mở cuộc trò chuyện, gọi qua Zalo hay nhắn tin SMS.
