@@ -10,15 +10,7 @@
 <img width="2348" height="1316" alt="image" src="https://github.com/user-attachments/assets/8237583f-1626-4116-ba69-5ef5078039b9" />
 <img width="2342" height="1322" alt="image" src="https://github.com/user-attachments/assets/9f8114c8-ba53-41a9-945f-4b470a958811" />
 
-
-
-
-
-
-
-
-
-
+https://canva.link/8x8dak5xfnpdjak
 
 ## Giới thiệu
 
